@@ -11,7 +11,8 @@ Install tweepy
 pip install tweepy
 ```
 
-#Here you go
+
+#Here you go   
 Place all required fields from precondition inside the code and you are ready to go.  
 ```
 python twitter_sample.py
